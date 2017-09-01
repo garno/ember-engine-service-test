@@ -1,0 +1,8 @@
+{
+  "name": "my-engine",
+  "dependencies": {
+  },
+  "keywords": [
+    "ember-addon"
+  ]
+}
